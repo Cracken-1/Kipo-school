@@ -1,0 +1,35 @@
+{
+    "courses": [
+      {
+        "title": "Fork-lift",
+        "description": "Learn to operate fork-lifts safely and efficiently.",
+        "image": "images/fork-lift.jpg"
+      },
+      {
+        "title": "Grader",
+        "description": "Comprehensive training on grader operation.",
+        "image": "images/grader.jpg"
+      },
+      {
+        "title": "Back-hoe",
+        "description": "Back-hoe training for digging and excavation.",
+        "image": "images/back-hoe.jpg"
+      },
+      {
+        "title": "Shovel",
+        "description": "Operate shovels with precision and safety.",
+        "image": "images/shovel.jpg"
+      },
+      {
+        "title": "Crane",
+        "description": "Advanced crane operation techniques.",
+        "image": "images/crane.jpg"
+      },
+      {
+        "title": "Excavator",
+        "description": "Expert training on excavator use.",
+        "image": "images/excavator.jpg"
+      }
+    ]
+  }
+  
